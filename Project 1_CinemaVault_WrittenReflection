@@ -1,4 +1,4 @@
-Project Reflection: Cinema Vault
+Project 1 Reflection: Cinema Vault
 
 Accomplishments
 The aspect of Cinema Vault I am most proud of is the integration of custom visual assets with dynamic API data. Rather than relying on standard icon libraries or emojis, I designed custom SVG iconography in Adobe Illustrator to create a specific brand identity for the "Vault" concept. Successfully mapping these custom assets to the live data coming from the TMDB API—ensuring they scaled correctly and stayed aligned within a responsive Flexbox layout—felt like a significant win for the overall user experience. I believe the final interface feels more like a polished product than a standard school lab.

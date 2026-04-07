@@ -1,4 +1,4 @@
-Project Reflection: TinyTracks
+Project 3 Reflection: TinyTracks
 
 Accomplishments
 I am most proud of the Professional Data Export functionality. While CRUD operations are the bread and butter of full-stack apps, implementing a tool that generates a physical CSV file based on user-specified date ranges adds real-world utility. It transforms "app data" into a "medical record" that parents can actually bring to pediatric appointments. I am also proud of the Mobile-First UX, which ensures that even in the middle of the night, a parent can log data with one hand.

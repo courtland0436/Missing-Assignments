@@ -1,4 +1,4 @@
-Project Reflection: EcoTrack
+Project 2 Reflection: EcoTrack
 
 Accomplishments:
 I am particularly proud of the "Smart Tips" internal advice engine. Instead of just building a basic "To-Do" list, I engineered a custom logic in the Flask backend that uses keyword matching to provide DIY maintenance tips the moment a task is completed. I’m also proud of the UI/UX design; I focused heavily on creating a professional, responsive interface using Tailwind CSS, including a server-side paginated dashboard that ensures the app remains fast and scalable even as a user adds dozens of home systems.
