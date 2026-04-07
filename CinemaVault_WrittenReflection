@@ -1,0 +1,13 @@
+Project Reflection: Cinema Vault
+
+Accomplishments
+The aspect of Cinema Vault I am most proud of is the integration of custom visual assets with dynamic API data. Rather than relying on standard icon libraries or emojis, I designed custom SVG iconography in Adobe Illustrator to create a specific brand identity for the "Vault" concept. Successfully mapping these custom assets to the live data coming from the TMDB API—ensuring they scaled correctly and stayed aligned within a responsive Flexbox layout—felt like a significant win for the overall user experience. I believe the final interface feels more like a polished product than a standard school lab.
+
+Opportunities for Growth
+The most challenging part of this build was managing asynchronous state. Early in the process, I struggled with "race conditions" where the component would try to render movie details before the API fetch was complete, leading to console errors. Learning how to properly implement useEffect alongside conditional loading and error states was a major growth point for me. It forced me to think deeply about the "user journey"—ensuring the person using the app isn't left staring at a blank screen while data is being retrieved.
+
+Future Improvements
+If I had more time to iterate on this project, I would focus on persistence and personalization. Currently, the app is a great discovery tool, but I would like to add a "Favorites" or "Watchlist" feature using LocalStorage. This would allow users to save titles across browser sessions.
+
+SEE THE VIDEO PRESENTATION OF CINEMA VAULT HERE:
+https://vimeo.com/1180889320/6d17b33f14?share=copy&fl=sv&fe=ci

@@ -1,0 +1,13 @@
+Project Reflection: EcoTrack
+
+Accomplishments:
+I am particularly proud of the "Smart Tips" internal advice engine. Instead of just building a basic "To-Do" list, I engineered a custom logic in the Flask backend that uses keyword matching to provide DIY maintenance tips the moment a task is completed. I’m also proud of the UI/UX design; I focused heavily on creating a professional, responsive interface using Tailwind CSS, including a server-side paginated dashboard that ensures the app remains fast and scalable even as a user adds dozens of home systems.
+
+Opportunity for Growth:
+My biggest challenge was managing state synchronization between the React frontend and the Flask backend, specifically with the search and pagination features. Ensuring the "Next Page" button correctly reflected the filtered search results from the database took several rounds of debugging. Next time, I would spend more time planning the API response shapes before writing the frontend code to avoid refactoring my components halfway through the build.
+
+Continual Improvement: What’s next?
+If given more time, I would like to expand the Advice Library: Move the "Smart Tips" from a hardcoded dictionary into its own dedicated database table, or eventually integrate a Generative AI API for personalized home-care walkthroughs.
+
+SEE THE VIDEO PRESENTATION OF ECOTRACK HERE:
+https://vimeo.com/1180291696/3f500dda33?share=copy&fl=sv&fe=ci

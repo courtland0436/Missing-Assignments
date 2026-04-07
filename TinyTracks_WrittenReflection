@@ -1,0 +1,15 @@
+Project Reflection: TinyTracks
+
+Accomplishments
+I am most proud of the Professional Data Export functionality. While CRUD operations are the bread and butter of full-stack apps, implementing a tool that generates a physical CSV file based on user-specified date ranges adds real-world utility. It transforms "app data" into a "medical record" that parents can actually bring to pediatric appointments. I am also proud of the Mobile-First UX, which ensures that even in the middle of the night, a parent can log data with one hand.
+
+Opportunity for Growth
+The hardest part was efficiently querying across date ranges. I initially struggled with the syntax for filtering SQLAlchemy objects by a date range while ignoring the time component of the timestamp. This taught me a lot about SQLite's date() functions and how to handle time-zone-agnostic data on the backend. Next time, I would spend more time refining the SQL queries to be even more performant as the data logs grow into the thousands.
+
+Continual Improvement
+For future versions, I plan to add:
+• PDF Formatting: Upgrade the export from a simple CSV to a formatted PDF report with charts and summaries.
+• Growth Charts: Integrate the CDC's growth percentiles so parents can see their child's height/weight trends visually.
+
+SEE THE VIDEO PRESENTATION OF TINYTRACKS HERE:
+https://vimeo.com/1180598368/afc0d31a43?share=copy&fl=sv&fe=ci
